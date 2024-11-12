@@ -1,4 +1,4 @@
 # todo_app
 
-A Todo App Flutter project using shared preferences to store data locally.
+A To-do list where users can add, edit, and delete tasks, everything store on local with shared preferences plugin.
 
