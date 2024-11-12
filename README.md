@@ -1,6 +1,6 @@
 # todo_app
 
-A new Flutter project.
+A Todo App Flutter project using shared preferences to store data locally.
 
 ## Getting Started
 
